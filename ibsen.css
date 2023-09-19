@@ -1,0 +1,28 @@
+.speech
+{
+    color:black;
+    font-size: medium;
+}
+.direction
+{
+    background-color:lightcoral;
+    color: black;   
+    font-size:small;
+}
+.name {
+    color:darkred;
+}
+.direction:hover
+{
+    color:darkslategrey;
+    background-color:darkblue;
+}
+.KROGSTAD {
+    color:blueviolet;
+}
+.MRSLINDE {
+    color:darkslateblue;
+}
+.NORA {
+    color:darkmagenta;
+}
