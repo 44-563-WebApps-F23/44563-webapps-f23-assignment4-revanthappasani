@@ -72,26 +72,5 @@ table {
     border-style: double;
     border-radius: 8px;
    }
-   ul.navbar-horizontal {
-        
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    border: #000 5px;
-    }
-    ul.navbar-horizontal li {
-    border: solid 2px black;
-    margin: 2px;
-    float:left;
-    color:#000;
-    background-color:cyan;
-    }
-    ul.navbar-horizontal a {
-    display:block;
-    padding:8px
-    }
-    
-    ul.navbar-horizontal a:hover {  
-    background-color: green;
-    color:white;
-    }
+
+   
