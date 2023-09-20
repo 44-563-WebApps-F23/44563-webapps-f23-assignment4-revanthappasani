@@ -26,3 +26,49 @@
 .NORA {
     color:darkmagenta;
 }
+table {
+    border-color:chocolate;
+    width:100%;
+    text-align:center;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th {
+     border: 3px solid;
+     border: radius 6px;
+     border-color:chocolate;
+     color:cadetblue;
+     height: 40px;
+     background-color: brown;
+  }
+  td{
+      border: 3px solid;
+      border-radius: 4px;
+      border-color: brown;
+      background-color: coral;
+      height: 25px;
+   }
+
+   tr:hover {background-color: lightcoral;}
+   .MRSLINDE:hover{
+    font-size: medium;
+    color: darkgoldenrod;
+    text-shadow: 0 0 25px rgb(225, 15, 80);
+    border-style: double;
+    border-radius: 8px;
+   }
+   .KROGSTAD:hover{
+    font-size: medium;
+    color:darkcyan;
+    text-shadow: 0 0 20px rgb(180, 20, 60);
+    border-style: dashed;
+    border-radius: 10px;
+   }
+   .NORA:hover{
+    font-size: medium;
+    color: darkorchid;
+    text-shadow: 0 0 25px rgb(210, 10, 100);
+    border-style: double;
+    border-radius: 8px;
+   }
