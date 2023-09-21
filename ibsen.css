@@ -46,10 +46,14 @@ table {
       border: 3px solid;
       border-radius: 4px;
       border-color: brown;
-      background-color: coral;
       height: 25px;
    }
-
+   tr:nth-child(odd){
+    background-color:coral ;
+   }
+   tr:nth-child(even){
+    background-color:rgb(230, 146, 146) ;
+   }
    tr:hover {background-color: lightcoral;}
    .MRSLINDE:hover{
     font-size: medium;
